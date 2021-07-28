@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#page=2&query=coding&position=16" alt="Girl in a jacket" width="500" height="600">
+<img src="https://unsplash.com/photos/9i5zipnKJ14" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm BAVITHRA R</h1>
 <h3 align="center">Frontend Developer|Logo Designer|Motion Graphic</h3>
 
