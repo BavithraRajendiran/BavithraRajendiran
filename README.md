@@ -1,7 +1,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/1004/573/189/typography-motivational-word-clouds-simple-background-wallpaper-preview.jpg" alt="Girl in a jacket" width="1000" height="600">
 
 <h1 align="center">Hi 👋, I'm BAVITHRA R ✌</h1>
-<h2 align="center">(Frontend Developer|Logo Designer|Motion Graphic)</h2>
+<h2 align="center">(Frontend Developer|Logo Designer|Motion Graphic Artist)</h2>
 
 
 
